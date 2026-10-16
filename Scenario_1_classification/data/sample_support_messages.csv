@@ -1,0 +1,101 @@
+message_id,message,category
+B001,I was charged twice for the monthly subscription.,billing
+B002,My invoice shows a fee I do not recognize.,billing
+B003,When will the refund reach my card?,billing
+B004,The amount on my receipt differs from the quoted price.,billing
+B005,Please explain the sales tax on this month's bill.,billing
+B006,My payment failed but the bank says it went through.,billing
+B007,Can you update the credit card used for future invoices?,billing
+B008,I need a copy of last quarter's billing statements.,billing
+B009,Why did my renewal cost more than the previous one?,billing
+B010,There is an overdue balance although I paid yesterday.,billing
+B011,The promotional discount is missing from my invoice.,billing
+B012,How can I change from annual to monthly billing?,billing
+B013,I see two pending transactions for one purchase.,billing
+B014,The receipt lists the wrong currency for my payment.,billing
+B015,Could you correct the company name on our invoice?,billing
+B016,My refund was approved but I have not received the money.,billing
+B017,Which payment methods do you accept for subscriptions?,billing
+B018,An extra service charge appeared on my statement.,billing
+B019,The card was declined despite having available funds.,billing
+B020,I need clarification on a prorated upgrade charge.,billing
+T001,The application closes whenever I upload a PDF.,technical_issue
+T002,Search results remain blank even though records exist.,technical_issue
+T003,The dashboard takes several minutes to load today.,technical_issue
+T004,I get error 500 when saving a new project.,technical_issue
+T005,Notifications are not appearing on my phone.,technical_issue
+T006,The export button creates an empty spreadsheet.,technical_issue
+T007,Audio stops playing after I switch browser tabs.,technical_issue
+T008,Our integration cannot connect to the webhook endpoint.,technical_issue
+T009,The mobile app freezes on the settings screen.,technical_issue
+T010,My changes disappear after I refresh the page.,technical_issue
+T011,Images look distorted in the latest release.,technical_issue
+T012,The download link returns a server error.,technical_issue
+T013,Video calls keep disconnecting on a stable connection.,technical_issue
+T014,The calendar is showing events in the wrong time zone.,technical_issue
+T015,The form submit button does nothing in Firefox.,technical_issue
+T016,File synchronization is stuck at 90 percent.,technical_issue
+T017,An unexpected exception appears when I open reports.,technical_issue
+T018,The API returns malformed JSON for this request.,technical_issue
+T019,The screen turns white after selecting a template.,technical_issue
+T020,Password reset email links display a broken page.,technical_issue
+A001,I cannot sign in after resetting my password.,account_access
+A002,My account is locked after too many login attempts.,account_access
+A003,The two-factor code is never delivered to my phone.,account_access
+A004,I lost access to my authenticator device.,account_access
+A005,Can you help me recover my old account?,account_access
+A006,My username is no longer accepted at login.,account_access
+A007,I need to change the email address tied to my account.,account_access
+A008,The sign-in page says my credentials are invalid.,account_access
+A009,How do I regain access after changing phones?,account_access
+A010,The password recovery email has not arrived.,account_access
+A011,My colleague can log in but I cannot access the workspace.,account_access
+A012,I was logged out and cannot get back into my profile.,account_access
+A013,Please unlock my account so I can sign in.,account_access
+A014,The verification prompt sends a code to an old number.,account_access
+A015,I forgot which email I used to register.,account_access
+A016,The single sign-on portal rejects my identity.,account_access
+A017,How can I reset my security questions?,account_access
+A018,My login session expires immediately after authentication.,account_access
+A019,I never receive the one-time passcode to enter my account.,account_access
+A020,Can an administrator restore my disabled user access?,account_access
+O001,Please cancel my subscription at the end of this term.,order_or_service_request
+O002,I want to upgrade our team to the business plan.,order_or_service_request
+O003,Could you add five seats to our current service?,order_or_service_request
+O004,We need to change the delivery address for our order.,order_or_service_request
+O005,Please schedule installation for next Wednesday.,order_or_service_request
+O006,I would like to place an order for three licenses.,order_or_service_request
+O007,Can you pause our service while the office is closed?,order_or_service_request
+O008,Please replace the device sent with my order.,order_or_service_request
+O009,I need to reschedule the technician visit.,order_or_service_request
+O010,Could you activate the add-on for our workspace?,order_or_service_request
+O011,Please renew our contract for another year.,order_or_service_request
+O012,I would like to return the item delivered yesterday.,order_or_service_request
+O013,Can you transfer our subscription to another team?,order_or_service_request
+O014,Please change the shipping option to express delivery.,order_or_service_request
+O015,We want to downgrade to the starter plan next month.,order_or_service_request
+O016,Could you send a replacement cable for my order?,order_or_service_request
+O017,I need to cancel the installation appointment.,order_or_service_request
+O018,Please provision a new workspace for our department.,order_or_service_request
+O019,Can you extend our service agreement through December?,order_or_service_request
+O020,I want to order another device for our branch.,order_or_service_request
+G001,What are your customer support hours?,general_inquiry
+G002,Where can I find the product documentation?,general_inquiry
+G003,Do you provide service outside the United States?,general_inquiry
+G004,How long does a typical setup take?,general_inquiry
+G005,Can you explain the differences between your plans?,general_inquiry
+G006,Is there a public roadmap for upcoming features?,general_inquiry
+G007,What languages does your support team speak?,general_inquiry
+G008,Where is your nearest service center?,general_inquiry
+G009,Does your platform support accessibility features?,general_inquiry
+G010,How can I contact your sales team?,general_inquiry
+G011,Do you offer a trial for new customers?,general_inquiry
+G012,What is your policy for scheduled maintenance?,general_inquiry
+G013,Can I use the product on both Windows and macOS?,general_inquiry
+G014,Which countries can receive your hardware?,general_inquiry
+G015,Is training available for new administrators?,general_inquiry
+G016,What is the maximum file size you support?,general_inquiry
+G017,Can you tell me about your privacy practices?,general_inquiry
+G018,Where can I read the release notes?,general_inquiry
+G019,Do you have a partner program?,general_inquiry
+G020,How often do you publish software updates?,general_inquiry
